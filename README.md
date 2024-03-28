@@ -34,3 +34,11 @@ envolve um conjunto de instrumentos, métodos e técnicas que visam a resoluçã
   <li>Crie um programa que declare a variável como String depois converta para float e em seguida apresente 
 o tipo da variável.</li>
 </ol>
+
+<h2>Componentes do Grupo</h2>
+<h3>João Soave</h3>
+<a href="https://github.com/siigAprendiz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<h3>Felipe Nascimento Fernandes</h3>
+<a href="https://github.com/felipe3103"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<h3>Henrique Ignacio</h3>
+<a href="https://github.com/henriqueignacio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
